@@ -1,0 +1,12 @@
+0000001 2019-09-25 10:03:11.613490000 00000000 A session.cpp:178 Info  Starting session
+0000002 2019-09-25 10:03:11.613523000 00000000 A connection.cpp:350 Info  Trying to connect to: 127.0.0.1:11001 (1) not-secured
+0000003 2019-09-25 10:03:11.614260000 00000000 A connection.cpp:368 Error exception: Connection refused
+0000004 2019-09-25 10:03:14.616467000 00000003 A connection.cpp:350 Info  Trying to connect to: 127.0.0.1:11001 (2) not-secured
+0000005 2019-09-25 10:03:14.616530000 00000003 A connection.cpp:368 Error exception: Invalid argument
+0000006 2019-09-25 10:03:17.620386000 00000006 A connection.cpp:350 Info  Trying to connect to: 127.0.0.1:11001 (3) not-secured
+0000007 2019-09-25 10:03:17.620446000 00000006 A connection.cpp:368 Error exception: Invalid argument
+0000008 2019-09-25 10:03:20.622333000 00000009 A connection.cpp:350 Info  Trying to connect to: 127.0.0.1:11001 (4) not-secured
+0000009 2019-09-25 10:03:20.622382000 00000009 A connection.cpp:368 Error exception: Invalid argument
+0000010 2019-09-25 10:03:23.622629000 00000012 A connection.cpp:350 Info  Trying to connect to: 127.0.0.1:11001 (5) not-secured
+0000011 2019-09-25 10:03:23.622662000 00000012 A connection.cpp:368 Error exception: Invalid argument
+0000012 2019-09-25 10:03:26.626320000 00000015 A connection.cpp:383 Error Connection failed
